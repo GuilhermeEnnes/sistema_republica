@@ -6,6 +6,10 @@ void main()
 {
     setlocale(LC_ALL,"");
 
+    int nest, ndespf, ndespd;
+    char pre[20];
+    
+    
    
 }
 
